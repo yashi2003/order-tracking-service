@@ -40,7 +40,7 @@ This microservice tracks customer orders and updates their statuses asynchronous
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/order-tracking-service.git
+   git clone https://github.com/yashi2003/order-tracking-service.git
    cd order-tracking-service
    ```
 2. Build and run the Docker containers:
